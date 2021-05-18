@@ -1,24 +1,16 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'St. Dunstan’s Academy',
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
+    label: 'Mission',
+    path: '/mission',
   },
   {
-    label: 'Resume',
-    path: '/resume',
-  },
-  {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
+    label: 'Prospectus',
+    path: '/prospectus',
   },
   {
     label: 'Contact',
