@@ -18,7 +18,8 @@ const Index = () => (
         {' '}
         Welcome to the St. Dustan’s Academy website. Please feel free to read about our{' '}
         <Link to="/mission">mission</Link>, or you can check out our{' '}
-        <Link to="/prospectus">prospectus</Link>.
+        <Link to="/prospectus">prospectus</Link>. If you would like to learn more, please{' '}
+        <Link to="/contact">contact</Link> us.
       </p>
     </article>
   </Main>
