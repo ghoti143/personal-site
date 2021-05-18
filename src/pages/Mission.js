@@ -114,8 +114,8 @@ const Mission = () => (
         teenager’s day is mediated by the media blitz: hours of enticing videos, electronically
         delivered music, social media, emails, television, texts, and the general inwardness of
         climate controlled living. As Sven Birkerts put it, “A finely filamented electronic scrim
-        has slipped between ourselves and the so-called ‘outside world’” resulting in a condition of
-        ‘almost unbroken mediation.’<sup>[1]</sup>
+        has slipped between ourselves and the so-called ‘outside world’ resulting in a condition of
+        ‘almost unbroken mediation.’”<sup>[1]</sup>
       </p>
       <p>
         It would be easy to go through the day without looking at a single flower, tree branch,
