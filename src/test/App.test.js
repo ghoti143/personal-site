@@ -8,44 +8,32 @@ import { render, screen } from '@testing-library/react';
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
-import About from '../pages/About';
 import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
-import Projects from '../pages/Projects';
-import Resume from '../pages/Resume';
-import Stats from '../pages/Stats';
+import Prospectus from '../pages/Prospectus';
+import Mission from '../pages/Mission';
 
 const pages = [
   {
     route: '/',
-    heading: 'About this site',
+    heading: 'St. Dunstan’s Academy',
     component: Index,
   },
   {
-    route: '/about',
-    heading: 'About Me',
-    component: About,
+    route: '/mission',
+    heading: 'Mission',
+    component: Mission,
   },
   {
-    route: '/projects',
-    heading: 'Projects',
-    component: Projects,
-  },
-  {
-    route: '/stats',
-    heading: 'Stats',
-    component: Stats,
+    route: '/prospectus',
+    heading: 'Prospectus',
+    component: Prospectus,
   },
   {
     route: '/contact',
     heading: 'Contact',
     component: Contact,
-  },
-  {
-    route: '/resume',
-    heading: 'Resume',
-    component: Resume,
   },
 ];
 

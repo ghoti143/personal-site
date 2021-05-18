@@ -4,7 +4,7 @@ import Main from '../layouts/Main';
 
 const Mission = () => (
   <Main title="About" description="Learn about Michael D'Angelo">
-    <article className="post markdown" id="mission">
+    <article className="post" id="mission">
       <header>
         <div className="title">
           <h2 data-testid="heading">
@@ -73,8 +73,8 @@ const Mission = () => (
         boys with a rich introduction to humanity’s perennial questions. Rather than a shallow and
         wide attempt at studying all cultures for all times, the boys will gain a rich awareness of
         the classical past by reading the Great Works of the Western tradition. They will engage in
-        “authentic peripheral participation”-- real practices of scholars-- instead of thin and
-        uninspiring imitations.
+        “authentic peripheral participation”&mdash;real practices of scholars&mdash;instead of thin
+        and uninspiring imitations.
       </p>
       <p>
         The boys at this school will be given a thorough introduction to the heritage of poetry and
@@ -115,7 +115,7 @@ const Mission = () => (
         delivered music, social media, emails, television, texts, and the general inwardness of
         climate controlled living. As Sven Birkerts put it, “A finely filamented electronic scrim
         has slipped between ourselves and the so-called ‘outside world’” resulting in a condition of
-        ‘almost unbroken mediation.’1
+        ‘almost unbroken mediation.’<sup>[1]</sup>
       </p>
       <p>
         It would be easy to go through the day without looking at a single flower, tree branch,
@@ -126,8 +126,9 @@ const Mission = () => (
       <p>
         If we want to awaken boys to the wonder of life and the wisdom of the past, they will need
         to be ushered into a different pattern of life and richer modes of learning that give them a
-        less mediated experience of the cosmos. Their entire selves-- spirit, soul, and body-- need
-        to come into contact with what Daniel Kerr calls “the sharp edges of reality.”
+        less mediated experience of the cosmos. Their entire selves&mdash;spirit, soul, and
+        body&mdash;need to come into contact with what Daniel Kerr calls “the sharp edges of
+        reality.”
       </p>
       <p>
         “All poetry begins in delight and ends in wonder,” said John Senior. The poetic mode of
@@ -143,8 +144,8 @@ const Mission = () => (
         to sung compline, a rich array of encounters with the good, true, and beautiful.
       </p>
       <p>
-        1 Sven Birkerts, The Gutenberg Elegies: The Fate of Reading in an Electronic Age (Faber and
-        Faber, 1994), 5.
+        <sup>[1]</sup> Sven Birkerts, The Gutenberg Elegies: The Fate of Reading in an Electronic
+        Age (Faber and Faber, 1994), 5.
       </p>
     </article>
   </Main>
