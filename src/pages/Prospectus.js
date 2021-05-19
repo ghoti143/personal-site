@@ -47,6 +47,11 @@ const Prospectus = () => (
         </i>
       </p>
       <p>
+        The school will function as both a haven and a training ground; it will free young men from
+        the distractions of contemporary culture, and build faith and virtue into their souls
+        through life-giving experiences of the true, the good, and the beautiful.
+      </p>
+      <p>
         The day’s schedule would be tolled out by the church bell, not alarms on a phone or PA
         system. Morning prayers, said early by the whole school, would set the devotional tone
         needed to consecrate all the day’s work to God.
@@ -55,8 +60,9 @@ const Prospectus = () => (
         Because they have land to move through and cultivate, the boys will discover the good of
         growing much of their own food. Their morning chores will bring them into glorious,
         strenuous contact with the reality of God’s created order. Milking cows, gathering eggs,
-        planting vegetables, cooking food for their brothers, and cleaning the bathrooms together,
-        will impart humble and hearty strength and gratitude for the many gifts of life.
+        planting vegetables, cooking food for their brothers, tending beehives, and cleaning the
+        bathrooms together, will impart humble and hearty strength and gratitude for the many gifts
+        of life.
       </p>
       <p>
         After chores and breakfast, classes will operate the way boys have long dreamed. Under the
@@ -72,30 +78,29 @@ const Prospectus = () => (
         water-coloring with their natural sciences instructor.
       </p>
       <p>
-        But the most significant portion of their formation will take place at the Mass. The boys
-        will learn to worship and to pray&mdash;their two greatest needs&mdash;and gain the freedom
-        that wells up into songs of praise. Their hearts will grow with their voices, and their
-        attention spans will deepen and intensify as they gradually come to control their thoughts
-        and reflections. They will worship the Lord in the beauty of holiness while they learn to
-        center their lives, like their schedules, around the altar.
+        But the most significant portion of their formation will take place at the Mass and daily
+        office. The boys will learn to worship and to pray—their two greatest needs—and gain the
+        freedom that wells up into songs of praise. Their hearts will grow with their voices, and
+        their attention spans will deepen and intensify as they gradually come to control their
+        thoughts and reflections. They will worship the Lord in the beauty of holiness while they
+        learn to center their lives, like their schedules, around the altar.
       </p>
       <p>
-        Part of the beauty of this model is the sheer amount of time available at a boarding school
-        to expose boys to the many studies needed in order to become good men.
+        The strength of this model comes from the sheer amount of time available at a boarding
+        school to shape boys into good men.
       </p>
-
       <p>
         In the time they recuperate from screens, the competitive sports frenzy, and hours trapped
-        indoors, the boys will receive a top-notch classical education. Crucially, their Christian
+        indoors, the boys will receive a top-notch classical education. But their Christian
         formation will not end when the academic day resolves. Their time outside of the classroom
         will also be marked by rich and beautiful endeavors. They will learn to live a full life.
       </p>
       <p>
         After a hearty lunch, the boys will don their uniforms and head to the fields for feats of
-        athletic prowess&mdash;either soccer, or rugby, or a run through the school’s obstacle
-        course. “Mens sana in corpore sana,” a sound mind in a sound body, was the ancient ideal,
-        and the day will include plenty of gymnastic education, which boys crave, and which will
-        connect their bodies and souls more fully to what they study.
+        athletic prowess—either soccer, or rugby, or a run through the school’s obstacle course.
+        “Mens sana in corpore sana,” a sound mind in a sound body, was the ancient ideal, and the
+        day will include plenty of gymnastic education, which boys crave, and which will connect
+        their bodies and souls more fully to what they study.
       </p>
       <p>
         There will be no varsity sports to suck away the boys’ time in travel and unbalanced
@@ -110,14 +115,14 @@ const Prospectus = () => (
       <p>
         The reason they will sing is because their hearts will be full. They will want to sing,
         especially once they learn the songs which celebrate the fullness, beauty, and wonder of
-        life. But they will also make music together because otherwise they won’t have it. Music
-        teaches harmony and love to the soul, and these are the prerequisite for piety and
-        faithfulness. Musical education will be woven throughout the day, but it will require the
-        boys to become proficient musicians.
+        life. Music teaches harmony and love to the soul, and these are the prerequisite for piety
+        and faithfulness. Musical education will be woven throughout the day, but it will require
+        the boys to become proficient musicians. They will make music together because otherwise
+        they won’t have it.
       </p>
       <p>
-        The boys will practice technological poverty&mdash;life without cell phones, ipods, cameras,
-        or computers. Freed from the enticing, addicting, and distracting media that saturates our
+        The boys will practice technological poverty—life without cell phones, ipods, cameras, or
+        computers. Freed from the enticing, addicting, and distracting media that saturates our
         culture from the breakfast-table onward, the boys will have time to learn 100 wonderful
         things they otherwise wouldn’t have time for: how to carve a mortise and tenon joint, how to
         play the piano, where deer are likely to wander in a particular grove of trees during
